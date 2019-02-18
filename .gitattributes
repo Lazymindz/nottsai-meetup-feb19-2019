@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+images/* linguist-vendored
+templates/* linguist-vendored
+datasets/* linguist-vendored
+working_dir/* linguist-vendored
+*.html linguist-vendored
+reveal.js/* linguist-vendored
